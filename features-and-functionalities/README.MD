@@ -32,3 +32,6 @@ alx-airbnb-project-documentation/
     |-- README.md
 ```
 
+## Features and Functionalities Diagram
+![Features and Functionalities](features-and-functionalities.png)
+
