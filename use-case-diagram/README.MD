@@ -1,6 +1,5 @@
 **Use Case Diagram**
 
-```markdown
 # Use Case Diagram: Airbnb Clone Features and Functionalities
 
 ## Overview
@@ -49,6 +48,7 @@ To view the diagram:
 ---
 
 ## Directory Structure
+
 ```
 
 alx-airbnb-project-documentation/
@@ -61,7 +61,7 @@ alx-airbnb-project-documentation/
 ---
 
 ## Task Status
+
 - **Diagram Completed:** ✅
 - **Actors Identified:** ✅
 - **Key Interactions Mapped:** ✅
-```
