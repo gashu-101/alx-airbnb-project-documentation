@@ -31,6 +31,10 @@ This directory contains the **Data Flow Diagram (DFD)** for the Airbnb Clone pro
 
 ---
 
+
+## The Diagram
+![DFD Diagram](data-flow.png)
+
 ## Directory Structure
 
 ```
